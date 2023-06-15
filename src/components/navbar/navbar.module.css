@@ -7,7 +7,7 @@
     box-shadow: grey 0px 0px 10px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 882px) {
     .navbar {
         padding: 0px 20px;
         /* background-color: #b293bd; */
